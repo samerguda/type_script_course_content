@@ -1,0 +1,2 @@
+# type_script_course_content
+type_script_course_content
